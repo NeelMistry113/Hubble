@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[14],{356:function(n,e,t){"use strict";t.r(e);var l={name:"WalletBTN"},c=t(46),component=Object(c.a)(l,(function(){return(0,this._self._c)("div")}),[],!1,null,"b552303e",null);e.default=component.exports}}]);
